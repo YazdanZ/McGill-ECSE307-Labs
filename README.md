@@ -22,3 +22,7 @@ some areas of study were:
 * Saving/Loading data 
 * Simplifying expressions  
 * Computing Laplace and Inverse Laplace Transforms
+
+[Lab handout](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab1/Lab01.pdf)<br/>
+[Lab Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab1/Lab01-Report.pdf)<br/>
+[MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab1/Lab01.mlx)<br/>
