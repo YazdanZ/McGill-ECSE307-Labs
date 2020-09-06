@@ -1,7 +1,7 @@
 # McGill-ESCE307-Labs
 This repository contains the Lab components of ESCE307-Linear Systems and Control.<br/>
 <br/>
-As a result of studying from home because of the COVID-19 pandemic, labs for linear systems and control are done using MATLAB. The goal of these labs being simulating systems and controls without hardware equipment; this is done in MATLAB. 
+As a result of studying from home because of the COVID-19 pandemic, labs for linear systems and control are done using MATLAB. The goal of these labs being simulating systems and controls without hardware equipment. 
 <br/>
 <br/>
 Each Lab contains : 
