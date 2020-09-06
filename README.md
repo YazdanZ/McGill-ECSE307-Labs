@@ -1,0 +1,24 @@
+# McGill-ESCE307-Labs
+This repository contains the Lab components of ESCE307-Linear Systems and Control.<br/>
+<br/>
+As a result of studying from home because of the COVID-19 pandemic, labs for linear systems and control are done using MATLAB. The goal of these labs being simulating systems and controls without hardware equipment; this is done in MATLAB. 
+<br/>
+<br/>
+Each Lab contains : 
+* a Lab handout (such as `Lab01.pdf`)
+* a Lab LiveScript (such as `Lab01.mlx`)
+* a Lab Report in LaTeX and a Pdf output (such as `Lab01-Report.pdf`)
+* a `.mat` data file containing environment vatiables
+<br/>
+
+## Lab1
+This Lab was an introduction to common MATLAB functions that will be used in the following labs.<br/>
+some areas of study were:
+* Arrays and Matrices
+* Generating array to model Discrete-Time signals
+* Logical operations in modeling signals
+* Plotting CT and DT signals
+* Symbolic variables and functions
+* Saving/Loading data 
+* Simplifying expressions  
+* Computing Laplace and Inverse Laplace Transforms
