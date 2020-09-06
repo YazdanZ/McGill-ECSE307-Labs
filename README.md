@@ -8,7 +8,7 @@ Each Lab contains :
 * a Lab handout (such as `Lab01.pdf`)
 * a Lab LiveScript (such as `Lab01.mlx`)
 * a Lab Report in LaTeX and a Pdf output (such as `Lab01-Report.pdf`)
-* a `.mat` data file containing environment vatiables
+* a `.mat` data file containing environment variables
 <br/>
 
 ## Lab1
