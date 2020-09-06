@@ -11,7 +11,7 @@ Each Lab contains :
 * a `.mat` data file containing environment variables
 <br/>
 
-## Lab1
+## [Lab1](https://github.com/Unixado/McGill-ESCE307-Labs/tree/master/Lab1)
 This Lab was an introduction to common MATLAB functions that will be used in the following labs.<br/>
 some areas of study were:
 * Arrays and Matrices
