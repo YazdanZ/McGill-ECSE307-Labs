@@ -1,1 +1,0 @@
-This .m file was created and added to the repository for GitHub to recognize the language of the repository (Matlab)
