@@ -51,3 +51,8 @@ some other areas of studies were:
 [Lab Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab2/Lab02-Report.pdf)<br/>
 [MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab2/Lab02.mlx)<br/>
 
+## [Lab3](https://github.com/Unixado/McGill-ESCE307-Labs/tree/master/Lab3)
+
+[Lab handout](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/Lab03.pdf)<br/>
+[Lab Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/Lab03-Report.pdf)<br/>
+[MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/Lab03.mlx)<br/>
