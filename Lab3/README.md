@@ -12,3 +12,4 @@ Additional areas of study were:
 [Lab handout](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/Lab03.pdf)<br/>
 [Lab Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/Lab03-Report.pdf)<br/>
 [MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/Lab03.mlx)<br/>
+[Virtual DC motor](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab3/VirtualMotor.m)<br/>
