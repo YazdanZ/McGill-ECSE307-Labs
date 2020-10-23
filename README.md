@@ -70,8 +70,16 @@ Additional areas of study were:
 ## [Lab4](https://github.com/Unixado/McGill-ESCE307-Labs/tree/master/Lab4)/[Lab5](https://github.com/Unixado/McGill-ESCE307-Labs/tree/master/Lab5)
 In this lab, different simulation experiments were run to track a desired reference signal with a simulated DC Motor. This was first done by running an open-loop experiment, then using the state feedback to control the angular velocity of DC motor. The lab was done using state space representation with the objective being to track a reference signal ωref while satisfying the following requirements:
 
+Lab4: 
 * Overshoot less than 10%.
 * 5%-settling time less than 0.2 seconds.
+* Steady state gain of 1 ± 5%.
+
+<br/>
+
+Lab5:
+* Overshoot less than 20%.
+* 5%-settling time less than 0.25 seconds.
 * Steady state gain of 1 ± 5%.
 
 
