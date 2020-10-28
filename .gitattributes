@@ -1,1 +1,2 @@
-*.m linguist-vendored=false
+*.tex linguist-language=MATLAB
+*.sty linguist-language=MATLAB
