@@ -119,3 +119,26 @@ In this lab, we experimented with different controller designs to regulate the a
 [Lab7 Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab7/Lab07-Report.pdf)<br/>
 [Lab7 MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab7/Lab07.mlx)<br/>
 
+## [Lab8](https://github.com/Unixado/McGill-ESCE307-Labs/tree/master/Lab8)
+In this lab, frequency analysis is used to identify the transfer function os a virtual motor. We draw a point-by-point bode plot by injecting cosine waves with known frequencies and use the magnitude and phase shift once it reaches it steady state. Lissajous method is used to measure the phase shift from the Lissajous curve. 
+
+<br/>
+
+[Lab8 Virtual DC motor](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab8/VirtualMotor.m)<br/>
+[Lab8 handout](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab8/Lab08.pdf)<br/>
+[Lab8 Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab8/Lab08-Report.pdf)<br/>
+[Lab8 MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab8/Lab08.mlx)<br/>
+
+## [Lab9](https://github.com/Unixado/McGill-ESCE307-Labs/tree/master/Lab9)
+In this lab, we designed a lead compensation controller for a system using Bode plots. 
+
+
+<br/>
+
+[Lab9 handout](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab9/Lab10.pdf)<br/>
+[Lab9 Report](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab9/Lab10-Report.pdf)<br/>
+[Lab9 MATLAB Livescript](https://github.com/Unixado/McGill-ESCE307-Labs/blob/master/Lab9/Lab10.mlx)<br/>
+
+
+
+
