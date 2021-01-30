@@ -1,4 +1,4 @@
-# McGill-ESCE307-Labs
+# McGill-ECSE307-Labs
 ![](https://img.shields.io/badge/-Octave-informational?style=for-the-badge&logo=Octave&logoColor=white&color=0790C0) 
 ![](https://img.shields.io/badge/-MATLAB-informational?style=for-the-badge&logo=Mathworks&logoColor=white&color=F0652F) 
 
